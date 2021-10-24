@@ -19,16 +19,9 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 - [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
 - [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
 
-
 # Contribution rules📚:
 
-- The project must work when opening Contributors.html
-- You are allowed to make pull requests that break the rules. We just merge it ;)
-- Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
-- Do NOT remove other content.
-- Styling/code can be pretty, ugly or stupid, big or small as long as it works
-- Add your name to the Contributors.html file
-- Try to keep pull requests small to minimize merge conflicts
+- Read the `CONTRIBUTION.md` to start with your PRs.
 
 
 ## Getting Started 🤗:
