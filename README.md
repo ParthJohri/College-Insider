@@ -1,2 +1,3 @@
-# HTML-CSS-ESSENTIALS
-This repository contains my projects that are based on HTML &amp; CSS essentials.
+# COLLEGE INSIDER
+This is a website which will cater to the needs of IITJEE aspirants.
+You can create other pages for this website.
