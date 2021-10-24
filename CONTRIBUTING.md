@@ -1,4 +1,4 @@
- Contribution rules📚:
+Contribution rules 🧑‍⚖️ :
 
 - The project must work when opening index.html
 - You are allowed to make pull requests with a good commit message!
