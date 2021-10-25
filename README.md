@@ -6,7 +6,7 @@ Hacktoberfest-2021
 **This is a beginner-friendly project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't
 know where to start, feel free to watch the videos linked below, and
-read the contribution rules. Happy hacking <3 💙 !!**
+read the contribution rules. Happy hacking <3 😎 !!**
 
 P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 
@@ -30,12 +30,11 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 - Clone on your local machine
 
 ```
-git clone https://github.com/fineanmol/Hacktoberfest2021.git
-
+git clone https://github.com/ParthJohri/College-Insider.git
 ```
 - Navigate to project directory.
 ```
-cd Hacktoberfest2021
+cd College-Insider
 ```
 
 - Create a new branch
@@ -65,7 +64,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
 
 ```terminal
-git remote add upstream https://github.com/fineanmol/Hacktoberfest2021
+git remote add upstream https://github.com/ParthJohri/College-Insider.git
 ```
 
 You can verify that the new remote has been added by typing
